@@ -11,4 +11,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: self-hosted
     steps:
-      - run:
+      - name: Check out repository code
