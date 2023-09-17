@@ -11,3 +11,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: self-hosted
     steps:
+      - run: echo "The job was automatically triggered by a event."
