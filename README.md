@@ -1,9 +1,7 @@
+[![Build, Test](https://github.com/RomanTsitsunov/ComputerGraphicsLabs/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/RomanTsitsunov/ComputerGraphicsLabs/actions/workflows/github-actions-demo.yml)
+<img src="https://img.shields.io/badge/python-black"/>
 # ComputerGraphicsLabs
 ## Лабораторная работа № 1
-<div align="center">
-<img src="https://img.shields.io/codecov/c/github/RomanTsitsunov/ComputerGraphicsLabs"/>
-<img src="https://img.shields.io/badge/python-black"/>
-</div>
 <div>
 Возможности программы:
 <br>
